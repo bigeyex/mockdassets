@@ -1,0 +1,42 @@
+{
+    "assets": [
+        {
+            "id": 1,
+            "name": "代码大全 第二版",
+            "category": "书刊",
+            "holder": {
+                "userid": "88821991",
+                "name": "张三"
+            },
+            "description": "这是一本书",
+            "history": [
+                {
+                    "userid": "88821991",
+                    "name": "张三"
+                },
+                {
+                    "userid": "88821992",
+                    "name": "李四"
+                }
+            ],
+            "image": "http://img10.360buyimg.com/n1/s200x200_jfs/t5581/225/1994405884/129396/1a2e03bc/592bf164Ndcc747ba.jpg"
+        },
+        {
+            "id": 1,
+            "name": "Clean Code",
+            "category": "书刊",
+            "holder": {
+                "userid": "88821991",
+                "name": "李四"
+            },
+            "description": "这是另一本书",
+            "history": [
+                {
+                    "userid": "88821991",
+                    "name": "张三"
+                }
+            ],
+            "image": "http://img11.360buyimg.com/n1/s200x200_jfs/t5881/245/3369654271/326099/6da3ba73/593a4357N46699934.jpg"
+        }
+    ]
+}
